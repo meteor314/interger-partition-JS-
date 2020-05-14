@@ -15,8 +15,8 @@ For ease of calculation, we do not recommend to use a number greater than 20 (be
 
 You can create a copy of this program, in local ! 
 
-    git clone https://github.com/meteor314/Integer-partition-JavaScript
-    cd Integer-partition-JavaScript
+    $ git clone https://github.com/meteor314/Integer-partition-JavaScript
+    $ cd Integer-partition-JavaScript
 
 
 Enjoy guys !
