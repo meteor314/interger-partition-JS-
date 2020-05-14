@@ -10,6 +10,14 @@ In number theory and combinatorics, a partition of a positive integer n, also ca
 
 
 This program is made from the JS and could be optimized.
+
 For ease of calculation, we do not recommend to use a number greater than 20 (because the number of partitions increases exponentially)!  
+
+You can create a copy of this program, in local ! 
+
+    git clone https://github.com/meteor314/Integer-partition-JavaScript
+    cd Integer-partition-JavaScript
+
+
 Enjoy guys !
 For more information (please visit wikipédia web site : https://en.wikipedia.org/wiki/Partition_(number_theory).
